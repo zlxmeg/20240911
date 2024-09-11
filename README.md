@@ -40,4 +40,9 @@ def greeting():
 ## How to write Math Equations?
 There are two options for delimiting a math expression inline with your text. You can either surround the expression with dollar symbols `($)`, or start the expression with `$` and end it with `$.` The latter syntax is useful when the expression you are writing contains characters that overlap with markdown syntax.
 
+```This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$```
+This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
+
+```This sentence uses $\` and \`$ delimiters to show math inline:  $`\sqrt{3x-1}+(1+x)^2`$```
+This sentence uses $\` and \`$ delimiters to show math inline:  $`\sqrt{3x-1}+(1+x)^2`$
 	 	
