@@ -31,9 +31,10 @@ def greeting():
   print ("Hello World!")
 ```
 </pre>
-
+```python
 def greeting():
   print ("Hello World!")
+```
 
 ## Styling text
 You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.
