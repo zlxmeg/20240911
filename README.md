@@ -25,11 +25,13 @@ For example:
 | Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
 
 ## Syntax highlighting
-```markdown
+<pre>
 ```python
 def greeting():
   print ("Hello World!")
 ```
+</pre>
+
 def greeting():
   print ("Hello World!")
 
