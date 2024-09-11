@@ -1,7 +1,7 @@
 # Basic writing and formatting syntax
 
 ## How to Create a Headings?
-To create a heading, add one to six # symbols before your heading text. The number of # will determine the hierarchy level and typeface size of the heading.
+To create a heading, add one to six `#` symbols before your heading text. The number of `#` will determine the hierarchy level and typeface size of the heading.
 ``` markdown
 # A first-level heading
 ## A second-level heading
@@ -36,5 +36,8 @@ def greeting():
   print ("Hello World!")
 ```
 
-## Styling text
-You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and `.md` files.
+# Writing mathematical expressions
+## How to write Math Equations?
+There are two options for delimiting a math expression inline with your text. You can either surround the expression with dollar symbols `($)`, or start the expression with `$` and end it with `$.` The latter syntax is useful when the expression you are writing contains characters that overlap with markdown syntax.
+
+	 	
