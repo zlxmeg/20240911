@@ -23,5 +23,15 @@ For example:
 | Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+
+## Syntax highlighting
+```markdown
+```python
+def greeting():
+  print ("Hello World!")
+```
+def greeting():
+  print ("Hello World!")
+
 ## Styling text
 You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.
