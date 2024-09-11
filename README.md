@@ -70,5 +70,10 @@ You can create an inline link by wrapping link text in brackets `[ ]`, and then 
 
 You can also create a Markdown hyperlink by highlighting the text and using the keyboard shortcut `Command`+`V`. If you'd like to replace the text with the link, use the keyboard shortcut `Command`+`Shift`+`V`.
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+for example
+```markdown
+[KAS](https://www.kas.tw/)
+```
+[KAS](https://www.kas.tw/)
+
 	 	
