@@ -37,4 +37,4 @@ def greeting():
 ```
 
 ## Styling text
-You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.
+You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and `.md` files.
