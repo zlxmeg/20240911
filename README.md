@@ -50,5 +50,11 @@ This sentence uses $\` and \`$ delimiters to show math inline:  $`\sqrt{3x-1}+(1
 
 ## Writing expressions as blocks
 To add a math expression as a block, start a new line and delimit the expression with two dollar symbols `$$`.
+```markdown
+**The Cauchy-Schwarz Inequality**
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+```
+**The Cauchy-Schwarz Inequality**
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 	 	
