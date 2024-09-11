@@ -65,5 +65,10 @@ Alternatively, you can use the ```math code block syntax to display a math expre
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 ```
 
-\lim_{x \to -3} \left( \frac{x^2}{x^2 + 2x - 3} \right)
+##Links
+You can create an inline link by wrapping link text in brackets `[ ]`, and then wrapping the URL in parentheses `( )`. You can also use the keyboard shortcut `Command`+`K` to create a link. When you have text selected, you can paste a URL from your clipboard to automatically create a link from the selection.
+
+You can also create a Markdown hyperlink by highlighting the text and using the keyboard shortcut `Command`+`V`. If you'd like to replace the text with the link, use the keyboard shortcut `Command`+`Shift`+`V`.
+
+This site was built using [GitHub Pages](https://pages.github.com/).
 	 	
