@@ -64,7 +64,5 @@ Alternatively, you can use the ```math code block syntax to display a math expre
 ```math
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 ```
-$$
-\ln(x^{-3}) \times \frac{x^2}{x^2 + 2x - 3}
-$$
+\lim_{x \to -3} \left( \frac{x^2}{x^2 + 2x - 3} \right)
 	 	
