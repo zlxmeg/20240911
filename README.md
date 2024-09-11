@@ -74,6 +74,13 @@ for example
 ```markdown
 [KAS](https://www.kas.tw/)
 ```
-[KAS](https://www.kas.tw/)
+[Kaohsiung American School](https://www.kas.tw/)
+
+## Add Images
+You can display an image by adding `!` and wrapping the alt text in `[ ]`. Alt text is a short text equivalent of the information in the image. Then, wrap the link for the image in parentheses `()`.
+```markdown
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+```
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 	 	
